@@ -7,7 +7,7 @@ Python (pandas, numpy, scipy, matplotlib, seaborn, geopy, missingno), Jupyter No
 
 ## Проекты
 
-### [1. Очистка данных и построение витрины](https://github.com/rystam86/data-analyst-portfolio/blob/main/notebooks/01_Data_Analyst_Cleaning_and_Vitrina.ipynb)
+### [01_Data_Analyst_Cleaning_and_Vitrina](https://github.com/rystam86/data-analyst-portfolio/blob/main/notebooks/01_Data_Analyst_Cleaning_and_Vitrina.ipynb)
 
 **Датасет:** Brazilian E-Commerce Public Dataset by Olist (2016–2018). 9 таблиц с данными о заказах, клиентах, товарах, продавцах, платежах, отзывах и геолокации.
 
@@ -21,7 +21,7 @@ Python (pandas, numpy, scipy, matplotlib, seaborn, geopy, missingno), Jupyter No
 
 **Результат:** Получена витрина на 115 000 строк и 25 столбцов с новыми признаками, готовая для EDA.
 
-### [2. EDA: Описательная статистика и проверка гипотез](https://github.com/rystam86/data-analyst-portfolio/blob/main/notebooks/02_Data_Analyst_EDA.ipynb)
+### [02_Data_Analyst_EDA](https://github.com/rystam86/data-analyst-portfolio/blob/main/notebooks/02_Data_Analyst_EDA.ipynb)
 
 **Датасет:** Готовая витрина из предыдущего этапа (115 712 строк, 28 столбцов).
 
